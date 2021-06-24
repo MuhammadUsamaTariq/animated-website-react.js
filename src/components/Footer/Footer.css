@@ -1,0 +1,159 @@
+.footer {
+    background-color: #002348;
+    padding-top: 10%;
+    padding-bottom: 20px !important;
+}
+
+#f_logo2 {
+    height: 70px !important;
+}
+
+.footer-head {
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.footer-para {
+    font-size:20px;
+}
+
+
+.hr {
+    background-color: #00ccff; 
+    height: 1px;
+}
+
+.foot-nav {
+    width: 100% !important;
+    color: #8091a4;
+    
+   
+}
+
+.foot-nav a {
+    margin: 0 10px 0 10px;
+    
+    text-decoration: none;
+    
+}
+
+#footer-svg{
+    margin-left: 2%;
+}
+
+.follow {
+    color: #a8bbd0;
+}
+
+.fa-facebook {
+    background: #3568d4;
+    color: white;
+  }
+
+.rights-res {
+    color: #8091a4;
+    display: block;
+}
+
+.des-by {
+    color: #8091a4;
+    margin-top: 6%;
+    
+}
+#current-opening ~ .underbar{
+    left: 0;
+    width: 160px;
+    overflow: hidden;
+    background: #ffe600;
+  }
+  #current-opening{
+      width: 200px;
+  }
+  #current-opening:hover ~ .underbar{
+    left: 0;
+    width: 150px;
+    overflow: hidden;
+    background: #003a78;
+  }
+  #current-opening{
+      color: white;
+      width: 50%;
+  }
+  .underbar{
+      width: 50%;
+  }
+  #facebook-svg{
+      margin-left: 1%;
+  }
+  #linkedin-svg{
+      margin-left: 1%;
+  }
+  @media(max-width:993px){
+    #current-opening{
+        font-size: 15px;
+        margin-top: -5%;
+        
+    }
+    .underbar{
+      margin-bottom: 5%;
+    }
+    .foot-nav a {
+      margin-top: 3%;
+      text-decoration: none;
+      text-align: left;
+      size: 20px;
+      display: block;
+      
+  }
+  
+  #care-to-join{
+      font-size: 25px;
+  }
+  #care-to-join-desc{
+      font-size: 15px;
+  }
+  .rights-res{
+      display: block;
+  }
+  #foot-nav-parent{
+      width: 50%;
+  }
+  .follow{
+      margin-top: -10%;
+  }
+  }
+  @media(max-width:600px){
+      #current-opening{
+          font-size: 15px;
+          margin-top: -5%;
+          
+      }
+      .underbar{
+        margin-bottom: 5%;
+      }
+      .foot-nav a {
+        margin-top: 3%;
+        text-decoration: none;
+        text-align: left;
+        size: 20px;
+        display: block;
+        
+    }
+    
+    #care-to-join{
+        font-size: 25px;
+    }
+    #care-to-join-desc{
+        font-size: 15px;
+    }
+    .rights-res{
+        display: block;
+    }
+    #foot-nav-parent{
+        width: 50%;
+    }
+    .follow{
+        margin-top: -10%;
+    }
+    
+  }

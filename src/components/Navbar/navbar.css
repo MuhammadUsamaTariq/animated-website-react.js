@@ -3,9 +3,10 @@ ul{
     margin-left: auto;
 }
 #nav-bar {
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 10;
+    
 }
 
 .navbar {
@@ -22,7 +23,9 @@ ul{
     color: #003a78;
 }
 
-
+#logo{
+    width: 20%;
+}
 .nav-link {
     font-weight: 400;
     font-size: 18px !important;
@@ -31,4 +34,31 @@ ul{
 
 .navbar-toggler {
     outline: none !important;
+}
+@media(max-width:600px){
+    #zapare {
+        font-size: 20px !important;
+        
+        
+        color: #003a78;
+    }
+ 
+  .navbar-brand{
+      margin-left: 25%;
+  }
+  #toggle-btn{
+      margin-top: -12%;
+      margin-left: -10%;
+  }
+  
+  
+}
+@media(max-width:320px){
+    .navbar-brand{
+        margin-left: 16%;
+    }
+    #toggle-btn{
+        margin-top: -15%;
+        margin-left: -12%;
+    }
 }

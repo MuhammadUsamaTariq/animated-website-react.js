@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 import Banner from './components/Banner/Banner';
 import AboutUs from './components/AboutUs/AboutUs';
 import { useEffect } from 'react';
+import Footer from './components/Footer/Footer';
 
 function App() {
   
@@ -22,6 +23,7 @@ function App() {
       <Navbar />
       <Banner/>
       <AboutUs/>
+      <Footer/>
     </div>
   );
 }

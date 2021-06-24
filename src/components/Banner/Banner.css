@@ -9,7 +9,7 @@
   
 .animate__animated.animate__backInUp{
     --animate-duration: 4s;
-    font-size: 50px;
+    font-size: 60px;
     color: #003a78;
     font-weight: bold;
   }
@@ -36,38 +36,70 @@ h4{
   }
   #staff-augmentation ~ .underbar{
     left: 0;
-    width: 34%;
+    width: 210px;
     overflow: hidden;
     background: #ffe600;
   }
-  #product-management ~ .underbar{
-    left: 0;
-    width: 37%;
-    overflow: hidden;
-    background:  #ffe600;
+  #staff-augmentation{
+    width: 250px;
   }
-  #revenue-management ~ .underbar{
+  #staff-augmentation:hover ~ .underbar{
     left: 0;
-    width: 49%;
-    overflow: hidden;
-    background:  #ffe600;
-  }
-#staff-augmentation:hover ~ .underbar{
-    left: 0;
-    width: 34%;
+    width: 200px;
     overflow: hidden;
     background: #003a78;
+  }
+  #product-management ~ .underbar{
+    left: 0;
+    width: 240px;
+    overflow: hidden;
+    background:  #ffe600;
+  }
+  #product-management{
+    width: 250px;
   }
   #product-management:hover ~ .underbar{
     left: 0;
-    width: 37%;
+    width: 240px;
     overflow: hidden;
     background: #003a78;
+  }
+  #revenue-management ~ .underbar{
+    left: 0;
+    width: 310px;
+    overflow: hidden;
+    background:  #ffe600;
+  }
+  #revenue-management{
+    width: 340px;
   }
   #revenue-management:hover ~ .underbar{
     left: 0;
-    width: 49%;
+    width: 300px;
     overflow: hidden;
     background: #003a78;
   }
-
+@media(max-width:600px){
+  #hero-image{
+    margin-top: 20%;
+  }
+  .animate__animated.animate__backInUp{
+    --animate-duration: 4s;
+    font-size: 30px;
+    color: #003a78;
+    font-weight: bold;
+  }
+}
+@media(max-width:992px){
+  #hero-image{
+   
+    margin-right: 5%;
+    
+  }
+  .animate__animated.animate__backInUp{
+    --animate-duration: 4s;
+    font-size: 30px;
+    color: #003a78;
+    font-weight: bold;
+  }
+}

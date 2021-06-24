@@ -13,7 +13,7 @@ const Banner = () => {
                         <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
                             <div className="carousel-inner">
                                 <div className="carousel-item active" data-bs-interval="5000">
-                                    <p className="animate__animated animate__backInUp mt-5">Scaleable etended<br /> business office<br /> services</p>
+                                    <p className="animate__animated animate__backInUp mt-5">Scaleable etxended<br /> business office<br /> services</p>
                                     <br />
 
                                     <h4 id="staff-augmentation" className="animate__animated animate__fadeIn active">Staff Augmentation</h4>

@@ -5,35 +5,44 @@
 }
 #we-are-desc{
     font-size: 25px;
+    text-align: justify;
 }
 #carrer-desc{
     font-size: 25px;
     color: #003a78;
 }
 #about-us ~ .underbar{
-    left: 0;
-    width: 15%;
+  
+    width: 100px;
     overflow: hidden;
     background: #ffe600;
   }
-#enquire-now ~ .underbar{
-    left: 0;
-    width: 20%;
-    overflow: hidden;
-    background: #ffe600;
-  }
-  #enquire-now:hover ~ .underbar{
-    left: 0;
-    width: 20%;
-    overflow: hidden;
-    background: #003a78;
+  #about-us{
+    
+    width: 130px;
   }
   #about-us:hover ~ .underbar{
     left: 0;
-    width: 15%;
+    width: 80px;
     overflow: hidden;
     background: #003a78;
   }
+#equire-now ~ .underbar{
+    left: 0;
+    width: 130px;
+    overflow: hidden;
+    background: #ffe600;
+  }
+  #aquire-now{
+    width: 130px;
+  }
+  #equire-now:hover ~ .underbar{
+    left: 0;
+    width: 110px;
+    overflow: hidden;
+    background: #003a78;
+  }
+
   #about-us-div{
       color: white;
     background: #003a78; 
@@ -71,4 +80,32 @@ color: white;
     font-size: 50px;
     font-weight: bold;
     margin-top: 10%;
+}
+@media(max-width:993px){
+  #we-are{
+    font-size: 50px;
+  }
+  #we-are-desc{
+    font-size: 20px;
+    text-align: justify;
+}
+#carrer-head{
+  font-size: 35px;
+}
+#carrer-desc{
+  font-size: 20px;
+  color: #003a78;
+}
+#about-us-div-head{
+  margin-top: 10%;
+  text-align: left;
+}
+#about-us-div-container{
+  margin-left: 2%;
+}
+#about-us-div-container-child{
+margin-top: 8%;
+text-align: left;
+}
+
 }
