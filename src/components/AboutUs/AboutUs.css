@@ -1,0 +1,74 @@
+#we-are{
+    color: #003a78;
+    font-size: 80px;
+    font-weight: bold;
+}
+#we-are-desc{
+    font-size: 25px;
+}
+#carrer-desc{
+    font-size: 25px;
+    color: #003a78;
+}
+#about-us ~ .underbar{
+    left: 0;
+    width: 15%;
+    overflow: hidden;
+    background: #ffe600;
+  }
+#enquire-now ~ .underbar{
+    left: 0;
+    width: 20%;
+    overflow: hidden;
+    background: #ffe600;
+  }
+  #enquire-now:hover ~ .underbar{
+    left: 0;
+    width: 20%;
+    overflow: hidden;
+    background: #003a78;
+  }
+  #about-us:hover ~ .underbar{
+    left: 0;
+    width: 15%;
+    overflow: hidden;
+    background: #003a78;
+  }
+  #about-us-div{
+      color: white;
+    background: #003a78; 
+  }
+  #about-us-div-head{
+      margin-top: 10%;
+  }
+  #about-us-div-container{
+      margin-left: 6%;
+  }
+  #about-us-div-container-child{
+    margin-top: 8%;
+    text-align: left;
+}
+.square{
+    height: 10%;
+    width: 10%;
+    background-color: transparent;
+    border-radius: 20px;
+    top: 36%;
+    opacity: 0.3;
+    left: 54%;
+    position: relative;
+    border: 4px solid #003a78;
+}
+#about-us-div-container-child-child1{
+    padding-bottom: 10%;
+}
+.animate__animated.animate__fadeInUp{
+
+color: white;
+}
+#carrer-head{
+    color: #003a78;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10%;
+}

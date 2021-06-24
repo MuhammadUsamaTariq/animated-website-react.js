@@ -1,0 +1,73 @@
+#hero-image{
+    height: 80%;
+    
+}
+#wrapper{
+   margin-top: 15% !important;
+}
+
+  
+.animate__animated.animate__backInUp{
+    --animate-duration: 4s;
+    font-size: 50px;
+    color: #003a78;
+    font-weight: bold;
+  }
+  .animate__animated.animate__fadeIn{
+    --animate-duration: 6s;
+    
+    color: #003a78;
+    
+  }
+h4{
+    color: #003a78;
+    cursor: pointer;
+    
+      -webkit-transition: 1.5s ease;
+}
+
+.underbar{
+    width: 0;
+    height: 5px;
+    background: #003a78;
+    
+    
+    -webkit-transition: 1.5s ease;
+  }
+  #staff-augmentation ~ .underbar{
+    left: 0;
+    width: 34%;
+    overflow: hidden;
+    background: #ffe600;
+  }
+  #product-management ~ .underbar{
+    left: 0;
+    width: 37%;
+    overflow: hidden;
+    background:  #ffe600;
+  }
+  #revenue-management ~ .underbar{
+    left: 0;
+    width: 49%;
+    overflow: hidden;
+    background:  #ffe600;
+  }
+#staff-augmentation:hover ~ .underbar{
+    left: 0;
+    width: 34%;
+    overflow: hidden;
+    background: #003a78;
+  }
+  #product-management:hover ~ .underbar{
+    left: 0;
+    width: 37%;
+    overflow: hidden;
+    background: #003a78;
+  }
+  #revenue-management:hover ~ .underbar{
+    left: 0;
+    width: 49%;
+    overflow: hidden;
+    background: #003a78;
+  }
+
