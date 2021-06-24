@@ -62,16 +62,16 @@
 }
 #current-opening ~ .underbar{
     left: 0;
-    width: 160px;
+    width: 250px;
     overflow: hidden;
     background: #ffe600;
   }
   #current-opening{
-      width: 200px;
+      width: 250px;
   }
   #current-opening:hover ~ .underbar{
     left: 0;
-    width: 150px;
+    width: 240px;
     overflow: hidden;
     background: #003a78;
   }
@@ -124,9 +124,24 @@
   }
   @media(max-width:600px){
       #current-opening{
-          font-size: 15px;
-          margin-top: -5%;
+         margin-top: 1%;
           
+          
+      }
+      #current-opening ~ .underbar{
+        left: 0;
+        width: 170px;
+        overflow: hidden;
+        background: #ffe600;
+      }
+      #current-opening{
+          width: 200px;
+      }
+      #current-opening:hover ~ .underbar{
+        left: 0;
+        width: 160px;
+        overflow: hidden;
+        background: #003a78;
       }
       .underbar{
         margin-bottom: 5%;

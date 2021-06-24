@@ -29,7 +29,7 @@ const Footer = () => {
                     <div className="col-12 text-center mt-4">
                         <div><p id="care-to-join-desc" className="text-white footer-para">Embark on an exciting career with us to learn and grow alongside<span className="text-white footerPara"> the best in the industry</span></p></div>
                     </div>
-                    <div className="col-12 text-center mt-5">
+                    <div className="col-12 text-center mt-3">
                         <center>
                             <h4 id="current-opening">View Current Openings</h4>
                             <div className="underbar"></div>
