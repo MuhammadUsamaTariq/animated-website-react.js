@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/animated-website-react.js/static/css/main.fd56fddf.chunk.css",
-    "main.js": "/animated-website-react.js/static/js/main.0801a249.chunk.js",
-    "main.js.map": "/animated-website-react.js/static/js/main.0801a249.chunk.js.map",
-    "runtime-main.js": "/animated-website-react.js/static/js/runtime-main.49bdbbb7.js",
-    "runtime-main.js.map": "/animated-website-react.js/static/js/runtime-main.49bdbbb7.js.map",
+    "main.css": "/animated-website-react.js/static/css/main.6bc842fb.chunk.css",
+    "main.js": "/animated-website-react.js/static/js/main.74f72219.chunk.js",
+    "main.js.map": "/animated-website-react.js/static/js/main.74f72219.chunk.js.map",
+    "runtime-main.js": "/animated-website-react.js/static/js/runtime-main.476b68bc.js",
+    "runtime-main.js.map": "/animated-website-react.js/static/js/runtime-main.476b68bc.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/animated-website-react.js/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.67437f6d.chunk.js": "/animated-website-react.js/static/js/2.67437f6d.chunk.js",
-    "static/js/2.67437f6d.chunk.js.map": "/animated-website-react.js/static/js/2.67437f6d.chunk.js.map",
-    "static/js/3.ef6a8ad3.chunk.js": "/animated-website-react.js/static/js/3.ef6a8ad3.chunk.js",
-    "static/js/3.ef6a8ad3.chunk.js.map": "/animated-website-react.js/static/js/3.ef6a8ad3.chunk.js.map",
+    "static/js/2.0996c6ce.chunk.js": "/animated-website-react.js/static/js/2.0996c6ce.chunk.js",
+    "static/js/2.0996c6ce.chunk.js.map": "/animated-website-react.js/static/js/2.0996c6ce.chunk.js.map",
+    "static/js/3.ea52af9a.chunk.js": "/animated-website-react.js/static/js/3.ea52af9a.chunk.js",
+    "static/js/3.ea52af9a.chunk.js.map": "/animated-website-react.js/static/js/3.ea52af9a.chunk.js.map",
     "index.html": "/animated-website-react.js/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/animated-website-react.js/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.fd56fddf.chunk.css.map": "/animated-website-react.js/static/css/main.fd56fddf.chunk.css.map",
-    "static/js/2.67437f6d.chunk.js.LICENSE.txt": "/animated-website-react.js/static/js/2.67437f6d.chunk.js.LICENSE.txt",
+    "static/css/main.6bc842fb.chunk.css.map": "/animated-website-react.js/static/css/main.6bc842fb.chunk.css.map",
+    "static/js/2.0996c6ce.chunk.js.LICENSE.txt": "/animated-website-react.js/static/js/2.0996c6ce.chunk.js.LICENSE.txt",
     "static/media/AboutSVG.c48517f3.svg": "/animated-website-react.js/static/media/AboutSVG.c48517f3.svg",
     "static/media/Careersvg.be1fb017.svg": "/animated-website-react.js/static/media/Careersvg.be1fb017.svg",
     "static/media/Hero.055d94fc.svg": "/animated-website-react.js/static/media/Hero.055d94fc.svg",
@@ -21,10 +21,10 @@
     "static/media/logo.b3ae97be.svg": "/animated-website-react.js/static/media/logo.b3ae97be.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49bdbbb7.js",
+    "static/js/runtime-main.476b68bc.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.67437f6d.chunk.js",
-    "static/css/main.fd56fddf.chunk.css",
-    "static/js/main.0801a249.chunk.js"
+    "static/js/2.0996c6ce.chunk.js",
+    "static/css/main.6bc842fb.chunk.css",
+    "static/js/main.74f72219.chunk.js"
   ]
 }
