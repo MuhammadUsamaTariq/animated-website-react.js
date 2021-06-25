@@ -47,7 +47,7 @@ const Navbar = () => {
 
     return (
 
-        <nav id="nav-wrapper" style={{ ...navbarStyles, top: visible ? '0' : '-160px' }} className="navbar navbar-expand-lg navbar-light fixed-top transparent" >
+        <nav id="nav-wrapper" style={{ ...navbarStyles, top: visible ? '0' : '-360px' }} className="navbar navbar-expand-lg navbar-light fixed-top transparent" >
             <a className="navbar-brand" href='#' >
                 <img id="logo" src={Logo} alt="logo" />
                 <span id="zapare">Zapare Technologies</span></a>
