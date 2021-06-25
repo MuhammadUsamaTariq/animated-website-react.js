@@ -2,20 +2,20 @@
 ul{
     margin-left: auto;
 }
-#nav-bar {
-    position: fixed;
-    top: 0;
-  
-    
-}
+
 
 .navbar {
     
     background-color: white;
-    opacity: 0.9;
+  
     padding: 30px !important;
     margin: 0 10px 0 10px !important;
+    transition: 'top 0.2s'
+    
+  
 }
+
+
 
 #zapare {
     font-size: 25px !important;
