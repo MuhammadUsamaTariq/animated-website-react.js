@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/animated-website-react.js/static/css/main.6bc842fb.chunk.css",
-    "main.js": "/animated-website-react.js/static/js/main.74f72219.chunk.js",
-    "main.js.map": "/animated-website-react.js/static/js/main.74f72219.chunk.js.map",
+    "main.js": "/animated-website-react.js/static/js/main.3bac8aac.chunk.js",
+    "main.js.map": "/animated-website-react.js/static/js/main.3bac8aac.chunk.js.map",
     "runtime-main.js": "/animated-website-react.js/static/js/runtime-main.476b68bc.js",
     "runtime-main.js.map": "/animated-website-react.js/static/js/runtime-main.476b68bc.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/animated-website-react.js/static/css/2.7fc9bc2b.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.0996c6ce.chunk.js",
     "static/css/main.6bc842fb.chunk.css",
-    "static/js/main.74f72219.chunk.js"
+    "static/js/main.3bac8aac.chunk.js"
   ]
 }
