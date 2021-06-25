@@ -5,7 +5,7 @@ import Styles from "./navbar.css"
 const Navbar = () => {
     return (
         
-            <nav id="nav-wrapper" className="navbar navbar-expand-lg navbar-light fixed-top ">
+            <nav  id="nav-wrapper" className="navbar navbar-expand-lg navbar-light fixed-top transparent ">
                 <a className="navbar-brand" href='#' >
                     <img id="logo" src={Logo} alt="logo" />
                     <span id="zapare">Zapare Technologies</span></a>
@@ -16,19 +16,19 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ">
                         <li className="nav-item">
-                            <a className="nav-link active" href="refresh">Home</a>
+                            <a className="nav-link active" href="#target-home">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="refresh">About Us</a>
+                            <a className="nav-link" href="#target-aboutus">About Us</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="refresh">Services</a>
+                            <a className="nav-link" href="#about-us-div">Services</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="refresh">Career</a>
+                            <a className="nav-link" href="#carrer-target">Career</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="refresh">Contact</a>
+                            <a className="nav-link" href="#care-to-join">Contact</a>
                         </li>
                     </ul>
                 </div>

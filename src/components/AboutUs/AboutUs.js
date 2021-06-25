@@ -26,7 +26,7 @@ const AboutUs = () => {
 
 
     return (
-        <div className="container-fluid">
+        <div id="target-aboutus" className="container-fluid">
             <div className="container mt-5">
                 <div className="row" >
 
@@ -88,7 +88,7 @@ const AboutUs = () => {
 
                 </div>
             </div>
-            <div className="container mt-5">
+            <div id="carrer-target" className="container mt-5">
                 <div className="row" >
 
                     <div className="col-xs-12 col-sm-12 col-md-6" >

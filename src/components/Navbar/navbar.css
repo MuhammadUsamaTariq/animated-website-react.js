@@ -5,13 +5,14 @@ ul{
 #nav-bar {
     position: fixed;
     top: 0;
-    z-index: 10;
+  
     
 }
 
 .navbar {
-
+    
     background-color: white;
+    opacity: 0.9;
     padding: 30px !important;
     margin: 0 10px 0 10px !important;
 }
